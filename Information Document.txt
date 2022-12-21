@@ -1,0 +1,27 @@
+- Admin panel customer panel and demo website
+Admin Panel;
+-site settings update
+- editing customer transactions and data entered from the customer panel
+- saving customers with service time
+- add, edit, delete slides
+- add, edit, delete blog posts
+- add, edit, delete page actions
+- add, edit, delete sales operations
+- support messages from the site
+- note operations for admin
+Customer Panel;
+- Adding apart information (text, features, pictures etc.)
+- Determining apart price and discount information
+- adding apartment rooms
+- Adding prices, discounts, pictures, information for apart rooms
+- create historical period for apartment rooms
+- Adding reservations for apart rooms and checking available rooms
+- seeing reservation requests coming through the website
+Website;
+- Posting apartments in various categories on the homepage
+- date based price inquiry
+- apartments listing
+- All the information and pre-reservation form of the apartments on the apartments pages
+- support request form in the contact section
+- registration form for those who want to register
+....

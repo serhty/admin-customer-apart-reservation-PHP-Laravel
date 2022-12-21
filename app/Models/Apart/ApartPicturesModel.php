@@ -1,0 +1,17 @@
+<?php
+
+namespace App\Models\Apart;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class ApartPicturesModel extends Model
+{
+    use HasFactory;
+    protected $table = "apart_images";
+
+    public function news()
+    {
+        return $this->belongsTo(ApartModel::class);
+    }
+}

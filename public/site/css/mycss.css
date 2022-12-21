@@ -1,0 +1,183 @@
+@media only screen and (min-width: 560px) {
+    .slider_img{
+        height: 450px;
+        width: 100%;
+        object-fit: cover;
+    }
+
+    .slick-slider .slick-track, .slick-slider .slick-list{
+        height: 450px;
+    }
+
+    .slider_transform_center{
+        top: 25%;
+    }
+
+    .slick-slider .slick-track, .slick-slider .slick-list{
+        height: 360px;
+    }
+
+}
+
+@media only screen and (max-width: 560px) {
+    .slider_img{
+        height: 275px;
+        width: 100%;
+        object-fit: cover;
+    }
+
+    .slick-slider .slick-track, .slick-slider .slick-list{
+        height: 380px;
+    }
+
+    .slider_transform_center{
+        top: 25%;
+    }
+
+}
+
+.not_click{
+    pointer-events: none;
+}
+
+.home_populer_apart_img{
+    height: 170px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.home_populer_apart_title{
+    height: 25px;
+}
+
+.home_populer_apart_concept{
+    height: 25px;
+}
+
+.home_populer_apart_price_row{
+    height: 30px;
+}
+
+.home_populer_apart_price{
+    top: 0px !important;
+}
+
+.recommended_aparts_img{
+    height: 235px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.recommended_aparts_img_captipn{
+    height: 125px;
+}
+
+.home_populer_apart_gird{
+    border: 1px solid #01b7f2;
+    border-radius: 5px;
+}
+
+.home_blogs_img{
+    height: 220px;
+    object-fit: cover;
+    width: 100%;
+}
+
+.section-padding {
+    padding: 30px 0;
+}
+
+.aparts_page_img{
+    height: 230px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.aparts_page_apart_name{
+    height: 35px;
+    width: 65%;
+}
+
+.apart_detail_slider_img{
+    width: 115px;
+    height: 80px;
+}
+
+.apart_detail_slider_nav{
+    height: 80px;
+}
+
+.apart_rooms_img_col{
+    float: left;
+}
+
+.apart_rooms_price_col{
+    float: left;
+}
+
+.room_props_i{
+    width: 25px !important;
+    height: 25px !important;
+    font-size: 20px !important;
+}
+
+.room_props_icon_box{
+    font-size: 10px !important;
+}
+
+.apart_social_a{
+    color: #01b7f2;
+    border: 1px solid #01b7f2;
+    background-color: #FFFFFF;
+    height: 100px;
+    border-radius: 50%;
+    width: 100px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.room_title_fs_16{
+    line-height: 2em !important;
+}
+
+.room_price_discount_del{
+    font-size: 15px;
+}
+
+.room_price_discount_small{
+    font-size: 15px !important;
+    border: 1px solid #01b7f2 !important;
+    border-radius: 10px !important;
+    padding: 5px !important;
+}
+
+.apart_room_cover_img{
+    height: 185px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.rooms_page_not_available{
+    width: 35% !important;
+    float: right !important;
+    font-size: 12px !important;
+    text-align: center !important;
+}
+
+.blogs_page_img{
+    height: 220px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.blogs_cutom_head{
+    font-size: 15px !important;
+}
+
+.topbar .left-side>ul>li>a, .topbar .right-side>ul>li>a{
+    text-transform: none;
+}
+
+.navigation .main-navigation .main-menu>nav>ul>.menu-item>a{
+    text-transform: none;
+}
